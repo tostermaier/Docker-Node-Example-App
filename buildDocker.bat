@@ -1,0 +1,1 @@
+docker build . -t yourusername/docker-node-example-app

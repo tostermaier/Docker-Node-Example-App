@@ -1,0 +1,1 @@
+powershell docker run --name docker_node_app -p 8082:3000 yourusername/docker-node-example-app

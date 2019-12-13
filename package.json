@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "Docker-Node-Example-App",
+  "version": "1.0.0",
+  "description":"Example project for docker",
+  "main":"server.js",
+  "author":"Timm Ostermaier",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "license":"GPL 2.0"
+}
