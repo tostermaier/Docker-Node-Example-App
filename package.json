@@ -8,7 +8,7 @@
   "main":"server.js",
   "author":"Timm Ostermaier",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "license":"GPL 2.0"
 }
